@@ -2,6 +2,6 @@
 
 [What is Information Technology](https://github.com/cademahoney18/cademahoney18/blob/main/What%20is%20IT.md)
 
-**Information Technology advantages**
+[Information Technology advantages](https://github.com/cademahoney18/cademahoney18/blob/main/IT%20advantages.md)
 
 
